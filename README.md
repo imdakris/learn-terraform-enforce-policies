@@ -5,3 +5,4 @@ tutorial](https://learn.hashicorp.com/tutorials/terraform/policy-quickstart?in=t
 on HashiCorp Learn. It contains an example Sentinel policy and policy set to
 enforce minimum Terraform versions for Terraform runs.
 #learn-terraform-enforce-policies
+# learn-terraform-enforce-policies
